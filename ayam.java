@@ -11,9 +11,8 @@ public class ayam {
 
     public static void main(String[] args) {
         ayam ayamm = new ayam();
-        ayam ayamm = new ayam();
         ayamm.berkokok();
-        ayamm.bertelur(); 
+        ayamm.bertelur();
+		System.out.println("Hell Yeah!!");
     }
 }
-
